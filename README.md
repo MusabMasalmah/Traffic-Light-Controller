@@ -31,11 +31,9 @@ To simulate the traffic light controller, follow these steps:
 1. Compile the Verilog files including `traffic_light_controller.v` and `testbench.v`.
 2. Run the simulation and observe the waveforms to verify the functionality.
 
+ ## Note
+ - Feel free to take this project to see and learn from it. 
 
-## Contributors
-
-- [Musab Masalmah](https://github.com/MusabMasalmah) - Creator and main contributor
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+ 
+ ## Auther
+ - Musab Masalmah. 
